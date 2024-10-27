@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(172, 235, 235);
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+img {
+  transform: rotate(12deg);
+  width: 650px;
+}
+.haruru {
+  display: flex;
+  width: px;
+}
+.sora {
+  margin-top: 50px;
+}
+
+p {
+  font-size: 40px;
+}
+
+@media screen and (max-width: 1000px) {
+  .haruru {
+    display: block;
+  }
+}
+
+video {
+  margin-left: 150px;
+  width: 357px;
+}
+
+.osora {
+  display: flex;
+}
+
+.pa-ko {
+  margin-left: 142px;
+}
